@@ -33,7 +33,7 @@ export const robots = [
         id: 6,
         name: "Kawhi Leonard",
         username: "ThaClaw",
-        email: "boardman000@nba.com"
+        email: "boardman1000@nba.com"
     },
     {
         id: 7,
@@ -45,7 +45,7 @@ export const robots = [
         id: 8,
         name: "Anthony Davis",
         username: "brow",
-        email: "thebrow@lakers.net"
+        email: "fearthebrow@lakers.net"
     },
     {
         id: 9,
